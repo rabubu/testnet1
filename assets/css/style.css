@@ -255,7 +255,7 @@ h6 {
 .navbar .megamenu ul li:hover>a {
   color: rgba(var(--color-white-rgb), 0.5);
   background: none;
-  padding: 8px 88px;
+  padding: 8px 10px;
 }
 
 .navbar .megamenu ul li a:hover,
