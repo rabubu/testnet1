@@ -231,7 +231,7 @@ p {
 
 .navbar .megamenu ul {
   margin: 0;
-  padding: 10px;
+  padding: 10px 10px;
   display: block;
   position: absolute;
   top: 130%;
