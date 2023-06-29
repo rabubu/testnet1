@@ -166,6 +166,7 @@ p {
   color: #fff;
   white-space: nowrap;
   transition: 0.3s;
+  border-radius: 17px;
 }
 
 .navbar a i,
