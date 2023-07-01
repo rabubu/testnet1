@@ -430,6 +430,14 @@ p {
   align-items: center;
   flex-direction: column;
   text-align: center;
+  <style>
+        .hero-container {
+            background-image: 
+            linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+            url("../img/5.png");
+            height: 94px;
+            width: 120px;
+        }
 }
 
 #hero h1 {
