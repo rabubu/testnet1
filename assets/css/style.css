@@ -451,13 +451,13 @@ p {
 }
 
 #hero .btn-get-started {
-  font-size: 36px;
+  font-size: 44px;
   display: inline-block;
-  padding: 4px 0;
-  border-radius: 50px;
+  padding: 1px 0;
+  border-radius: 29px;
   transition: 0.3s ease-in-out;
   margin: 10px;
-  width: 64px;
+  width: 172px;
   height: 64px;
   text-align: center;
   border: 2px solid #fff;
