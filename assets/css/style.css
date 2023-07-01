@@ -416,6 +416,7 @@ p {
   background-size: cover;
   position: relative;
   margin-bottom: -90px;
+  opacity: 70%;
 }
 
 #hero .hero-container {
