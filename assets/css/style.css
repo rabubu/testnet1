@@ -8,7 +8,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #67b0d1;
+  color: #2b36b5;
 }
 
 a:hover {
@@ -90,7 +90,7 @@ p {
 }
 
 #header.header-scrolled {
-  background: rgba(55, 142, 181, 0.9);
+  background: rgba(43, 54, 181, 0.9);
   padding: 12px;
 }
 
@@ -621,7 +621,7 @@ section {
 
 .about .content .about-btn {
   display: inline-block;
-  background: #67b0d1;
+  background: #2b36b5;
   padding: 6px 44px 8px 30px;
   color: #fff;
   border-radius: 50px;
@@ -646,7 +646,7 @@ section {
 
 .about .icon-boxes .icon-box i {
   font-size: 40px;
-  color: #67b0d1;
+  color: #2b36b5;
   margin-bottom: 10px;
 }
 
@@ -756,7 +756,7 @@ section {
 .counts .count-box i {
   display: block;
   font-size: 44px;
-  color: #67b0d1;
+  color: #2b36b5;
   float: left;
   line-height: 0;
 }
