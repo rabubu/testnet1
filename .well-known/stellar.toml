@@ -15,16 +15,16 @@ ORG_OFFICIAL_EMAIL="stellartradexlm@gmail.com"
 
 
 [[CURRENCIES]]
-code="xcb"
-issuer="GAIMV36WSTXZTW22DAGKMO34N4CWTOC4CZCKEAUIEHT47DQ2VS5FHJLY"
-anchor_asset="false"
-name="Cobalt"
-desc="Cobalt is an essential mineral used for batteries in electric cars, computers, and cell phones. Demand for cobalt is increasing as more electric cars are sold, particularly in Europe, where governments are encouraging the sales with generous environmental bonuses."
-image="https://i.ibb.co/LvRv9fM/cobalt.png"
-fixed_number=10000000
-max_number=10000000
+code="SOKOLOV"
+issuer="GD77TON2KSHBORKO6K3O332JNS5S53PVCZXHTQCSLGOYUUFHRES3ESH5"
+anchor_asset="true"
+name="SOKOLOV Jewelry"
+desc="Introducing Sokolov, the revolutionary crypto token where elegance meets profitability. Inspired by the timeless beauty of jewelry, Sokolov's value ascends daily, offering investors an unrivaled opportunity to indulge in a dazzling investment. Join the glitterati and secure your stake in Sokolov, where luxury meets financial growth."
+image="https://stellartrade.netlify.app/assets/img/sokolov.png"
+fixed_number=546889
+max_number=546889
 is_unlimited=false
-#Cobalt was issued using the open and inclusive Stellar blockchain network.
+#SOKOLOV was issued using the open and inclusive Stellar blockchain network.
 
 
 
