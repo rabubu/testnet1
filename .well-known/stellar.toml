@@ -1,0 +1,31 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GAIMV36WSTXZTW22DAGKMO34N4CWTOC4CZCKEAUIEHT47DQ2VS5FHJLY"
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="ChemiTokens"
+ORG_URL="https://www.chemitokens.org"
+ORG_DESCRIPTION="Cobalt is an essential mineral used for batteries in electric cars, computers, and cell phones. Demand for cobalt is increasing as more electric cars are sold, particularly in Europe, where governments are encouraging the sales with generous environmental bonuses."
+ORG_TWITTER="@ChemiTokens"
+ORG_LOGO="https://i.ibb.co/G3YMZjm/chemitokens-logo.png"
+ORG_OFFICIAL_EMAIL="chemitokens@gmail.com"
+
+
+[[CURRENCIES]]
+code="xcb"
+issuer="GAIMV36WSTXZTW22DAGKMO34N4CWTOC4CZCKEAUIEHT47DQ2VS5FHJLY"
+anchor_asset="false"
+name="Cobalt"
+desc="Cobalt is an essential mineral used for batteries in electric cars, computers, and cell phones. Demand for cobalt is increasing as more electric cars are sold, particularly in Europe, where governments are encouraging the sales with generous environmental bonuses."
+image="https://i.ibb.co/LvRv9fM/cobalt.png"
+fixed_number=10000000
+max_number=10000000
+is_unlimited=false
+#Cobalt was issued using the open and inclusive Stellar blockchain network.
+
+
+
+
