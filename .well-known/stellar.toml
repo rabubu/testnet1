@@ -28,6 +28,7 @@ image="https://stellartrade.netlify.app/assets/img/sokolov.png"
 fixed_number=546889
 max_number=546889
 is_unlimited=false
+regulated=true
 #SOKOLOV was issued using the open and inclusive Stellar blockchain network.
 
 
