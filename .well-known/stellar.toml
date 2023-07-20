@@ -17,8 +17,12 @@ ORG_OFFICIAL_EMAIL="stellartradexlm@gmail.com"
 [[CURRENCIES]]
 code="SOKOLOV"
 issuer="GD77TON2KSHBORKO6K3O332JNS5S53PVCZXHTQCSLGOYUUFHRES3ESH5"
-anchor_asset="true"
+is_asset_anchored="true"
+anchor_asset="SOKOLOV Jewelry WRLD"
+redemption_instructions="https://stellartrade.netlify.app/"
+anchor_asset_type="Precious Jewelry"
 name="SOKOLOV Jewelry"
+conditions="Invest now, profit tomorrow"
 desc="Introducing Sokolov, the revolutionary crypto token where elegance meets profitability. Inspired by the timeless beauty of jewelry, Sokolov's value ascends daily, offering investors an unrivaled opportunity to indulge in a dazzling investment. Join the glitterati and secure your stake in Sokolov, where luxury meets financial growth."
 image="https://stellartrade.netlify.app/assets/img/sokolov.png"
 fixed_number=546889
